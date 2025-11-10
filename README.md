@@ -5,5 +5,6 @@ A collection of small-scale projects with Micro:bit, Arduino, and robotics for S
 |----------|--------------|--------|
 
 
+---
 [Making Robotics](https://www.makingrobotics.com)  
 contact@makingrobotics.com  
